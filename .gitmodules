@@ -1,0 +1,6 @@
+[submodule "nixos-t2-iso"]
+	path = nixos-t2-iso
+	url = git@github.com:t2linux/nixos-t2-iso.git
+[submodule "isos/nixos-t2-iso"]
+	path = isos/nixos-t2-iso
+	url = git@github.com:t2linux/nixos-t2-iso.git
